@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318909543917",
+    "project_id": "hrqol-survey",
+    "storage_bucket": "hrqol-survey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318909543917:android:3c77a71745c47dd4f863e4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318909543917-9b44hna14nbkpbhdg223fm1nmhgan9b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhe_km-YWq1DAs2JcyXliuby6Y5Sy0jWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318909543917-9b44hna14nbkpbhdg223fm1nmhgan9b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
